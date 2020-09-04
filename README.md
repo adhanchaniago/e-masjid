@@ -1,2 +1,2 @@
 # e-masjid
-Sistem Informasi Masjid
+Sistem Informasi Masjid berbasis Website
