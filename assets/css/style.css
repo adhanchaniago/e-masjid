@@ -1,0 +1,6 @@
+.carousel-item{
+  height: 670px !important;
+  position: relative !important;
+  width: 100%;
+  top: initial;
+}
